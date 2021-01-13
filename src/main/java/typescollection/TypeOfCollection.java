@@ -1,4 +1,4 @@
-package collection;
+package typescollection;
 import java.util.Set;
 import java.util.SortedMap;
 import java.util.SortedSet;
