@@ -26,6 +26,7 @@ public class ArrayList extends java.util.ArrayList {
         //Displayed method
         for( Object Arraylist : List ){
             System.out.println("Elements are displayed: "+Arraylist);
+            System.out.println("End");
         }
     }
 }
