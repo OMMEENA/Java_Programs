@@ -1,0 +1,12 @@
+git init =>   to start git
+git clone =>  to make copy in your computer
+git status => to check change in files
+git gui =>    to add tho change file and commit it
+git add . =>  to add all file at once
+git commit -m =>  to check message
+git log -3 => to see the commit
+git push origin master =>
+git check.out -b (branchname)=> to get out from master branch
+
+git remote add origin https://github.com/OMMEENA/calculator.git
+for add new repository
